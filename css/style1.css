@@ -1,0 +1,20 @@
+h1{
+    color: brown;
+    font-size: 100px;
+    /* display: flex; */
+    margin-top: 100px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.mon{
+    color: crimson;
+    border: 3px solid red;
+    font-size: 50px;
+}
+.hi{
+    color: blue;
+    font-size: 50px;
+}
